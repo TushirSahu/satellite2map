@@ -1,8 +1,8 @@
 # satellite2map
-![images](https://user-images.githubusercontent.com/96677478/222502920-9d9f6552-5e34-4141-a33a-90a334962247.jpeg)
+<img src="https://user-images.githubusercontent.com/96677478/222503546-f15218cd-0f53-4680-9003-466a774c5776.png" width="800" height="400">
 
 ## Why U-Net
-![5705092b-50f5-4bfa-b4d7-6e43c85b343a](https://user-images.githubusercontent.com/96677478/222503013-3a59e1d6-f5a0-4b27-93b3-c275c3821d18.jpg)
+<img src="https://user-images.githubusercontent.com/96677478/222503013-3a59e1d6-f5a0-4b27-93b3-c275c3821d18.jpg" width="400">
 
 Using a U-Net is a good choice because of the lack of training data, and it also seems to be the choice of most Kagglers that participated to this satellite imagery competition. This neural network architecture has revealed to be very good in this situation. U-Nets have an ability to learn in environments of low to medium quantities of training data, and the amount of training data available in this competition is considered low. Also, a U-Net can be adapted to recent research
 ## Dataset
